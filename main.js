@@ -1,4 +1,4 @@
-import '../my-vite-threejs-app/style.css';
+import './style.css';
 import * as THREE from 'three';
 import { DragControls } from 'three/addons/controls/DragControls.js';
 
