@@ -1,6 +1,6 @@
 import './style.css';
 import * as THREE from 'three';
-import { DragControls } from 'three/addons/controls/DragControls.js';
+import { DragControls } from './dragControls.js';
 
 
 const scene = new THREE.Scene();
